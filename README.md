@@ -1,4 +1,4 @@
-# polygon_cavity_aximesh
+# polygon_cavity_convmesh
 Case file with fully-defined cavities as described by wrapping planar case into cylinder.
-Aximesh geometry.
-Pre-initialised.
+Aximesh geometry with simplified centre.
+Initial fields preset.
