@@ -1,4 +1,4 @@
-# polygon_cavity_convmesh
-Case file with fully-defined cavities as described by wrapping planar case into cylinder.
+# no_cavity_convmesh
+Case file with sinusoidal perturbation but no surrounding cavities.
 Aximesh geometry with simplified centre.
 Initial fields preset.
