@@ -45,10 +45,10 @@ blocks
 edges
 (
  arc 0 1 (4.2426 4.2426 -0.5) //(cx+rcos45 cy+rsin45 cz) for bottom circle big arc
- arc 5 4 (0.7071 0.7071 -0.5) //bottom circle small arc
+ arc 5 4 (0.3536 0.3536 -0.5) //bottom circle small arc
 
  arc 6 7 (4.2426 4.2426 0.5) //top circle big arc
- arc 11 10 (0.7071 0.7071 0.5) //top circle small arc
+ arc 11 10 (0.3536 0.3536 0.5) //top circle small arc
 );
 
 boundary
