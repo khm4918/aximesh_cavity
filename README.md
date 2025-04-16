@@ -1,4 +1,4 @@
-# polygon_cavity_convmesh
-Case file with fully-defined cavities as described by wrapping planar case into cylinder.
+# trianlge_cavity_convmesh
+Case file with isoceles triangle shaped cavities.
 Aximesh geometry with simplified centre.
 Initial fields preset.
